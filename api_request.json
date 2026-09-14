@@ -1,0 +1,9 @@
+{
+  "source_system": "demo_source",
+  "source_customer_id": "cust-1004",
+  "email": "noah.wilson@example.com",
+  "first_name": "Noah",
+  "last_name": "Wilson",
+  "status": "active",
+  "country_code": "US"
+}
